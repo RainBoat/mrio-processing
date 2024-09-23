@@ -19,7 +19,7 @@ The scripts in this repo process the ADB MRIO Excel files and implement various 
 
 ## About the MRIO
 
-The Asian Development Bank [Multiregional Input–Output Tables](https://kidb.adb.org/mrio) are a time series of intercountry input–output tables disaggregated into 35 sectors. Final demand are disaggregated into five categories. The following is a schematic of an MRIO table.
+The Asian Development Bank [Multiregional Input–Output Tables](https://kidb.adb.org/globalization) are a time series of intercountry input–output tables disaggregated into 35 sectors. Final demand are disaggregated into five categories. The following is a schematic of an MRIO table.
 
 ![](images/schematic.jpg)
 
