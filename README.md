@@ -1,6 +1,6 @@
 # ADB MRIO processing scripts
 
-The scripts in this repo process the ADB MRIO Excel files and implement various indicators from the input–output and global value chain literature. Download the tables [here](https://kidb.adb.org/mrio) and save each version in a seperate folder under `data/raw`. Run the scripts in the order listed below. All outputs are saved in `data` in parquet format.
+The scripts in this repo process the ADB MRIO Excel files and implement various indicators from the input–output and global value chain literature. Download the tables [here](https://kidb.adb.org/globalization) and save each version in a seperate folder under `data/raw`. Run the scripts in the order listed below. All outputs are saved in `data` in parquet format.
 
 | Script | Description |
 | -------- | ----------- |
